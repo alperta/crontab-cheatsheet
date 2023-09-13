@@ -83,4 +83,4 @@ For example, to run `my-command` at startup:
 
 ## External links
 
-Crontan explained: https://crontab.dev/cron-explained/
+Crontab explained: https://crontab.dev/cron-explained/
