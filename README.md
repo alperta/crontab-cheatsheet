@@ -80,7 +80,3 @@ For example, to run `my-command` at startup:
 - Ensure that any scripts or commands being called by your cron jobs have absolute paths to avoid confusion.
 - If you're storing output or logs, it's also wise to use absolute paths.
 - It can be helpful to redirect the output of your cron jobs to a log for debugging purposes. E.g., `30 5 * * * my-command >> /path/to/logfile 2>&1`.
-
-## External links
-
-Crontab explained: https://crontab.dev/cron-explained/
